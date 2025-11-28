@@ -50,7 +50,3 @@ Las princiaples herramientas que manejo son:
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Begluckt&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begluckt&layout=compact&theme=transparent&hide_border=true" height="150" alt="langs" />
-</div>
