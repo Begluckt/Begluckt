@@ -14,8 +14,7 @@
 
 ### 👨‍💻 Sobre Mí 
 
-Soy estudiante de **5to año de Ingeniería Civil en Computación** en la Univerisdad Tecnológica Metropólitana,con gran interes en la resolución de problemas, y sobretodo por la **Ciencia de Datos** y la **Inteligencia Artificial**. 
-Me apasiona es **explorar los resultados de la IA en terrenos reales**. Me motiva cerrar la brecha entre los modelos teóricos y su impacto tangible en otras áreas.
+Soy estudiante de **5to año de Ingeniería Civil en Computación** en la Univerisdad Tecnológica Metropólitana, con gran interes en la resolución de problemas, y sobretodo por la **Ciencia de Datos** y la **Inteligencia Artificial**. Me apasiona **explorar los resultados de la IA en terrenos reales**. Me motiva cerrar la brecha entre los modelos teóricos y su impacto tangible en otras áreas.
 
 
 
