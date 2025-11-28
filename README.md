@@ -25,8 +25,8 @@ Las princiaples herramientas que manejo son:
 #### 🧠 Data Science & AI 
 > *Nivel Básico-Intermedio: Capaz de implementar pipelines, limpiar datos y entrenar modelos.*
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" height="45" alt="ai-stack" />
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,anaconda" height="45" alt="data-stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter" height="45" alt="ai-stack" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" height="45" alt="data-stack" />
 </div>
 
 #### 🎨 Frontend & UX/UI 
@@ -45,12 +45,12 @@ Las princiaples herramientas que manejo son:
 | :--- | :--- | :--- |
 | **[🏥 COVID-19 Ensemble](https://github.com/Begluckt/COVID19-Multimodal-ICU-Prediction)** | Medicina / Deep Learning | `Late Fusion` `CNN` `RNN` |
 | **[🌾 RiceYield AI](https://github.com/Begluckt/RiceYield-AI)** | Agricultura / Data Science | `XGBoost` `APIs` `Tabular` |
-| **[🩻 Tri-Modal Diagnosis (WIP)](https://github.com/Begluckt/TriModal-COVID-Diagnosis-System)** | Medicina / Deep Learning | `CNN` `Transformers` `Audio` |
+| **[🦠 Tri-Modal Diagnosis (WIP)](https://github.com/Begluckt/TriModal-COVID-Diagnosis-System)** | Medicina / Deep Learning | `CNN` `Transformers` `Audio` |
 | **[🎵 Spotify Analysis](https://github.com/Begluckt/Pop-Music-Classification)** | Minería de Datos | `CRISP-DM` `Statistics` |
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&layout=compact&theme=transparent&hide_border=true" height="150" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Begluckt&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Begluckt&layout=compact&theme=transparent&hide_border=true" height="150" alt="langs" />
 </div>
