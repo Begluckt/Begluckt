@@ -44,7 +44,7 @@ Las princiaples herramientas que manejo son:
 | Repo | Dominio | Tech Key |
 | :--- | :--- | :--- |
 | **[🏥 COVID-19 Ensemble](https://github.com/Begluckt/COVID19-Multimodal-ICU-Prediction)** | Medicina / Deep Learning | `Late Fusion` `CNN` `RNN` |
-| **[🌾 RiceYield AI](https://github.com/Begluckt/RiceYield-AI)** | Agricultura / Data Science | `XGBoost` `APIs` `Tabular` |
+| **[🌾 RiceYield AI](https://github.com/Begluckt/RiceYield-AI)** | Agricultura / Machine Learning | `XGBoost` `APIs` `Tabular` |
 | **[🦠 Tri-Modal Diagnosis (WIP)](https://github.com/Begluckt/TriModal-COVID-Diagnosis-System)** | Medicina / Deep Learning | `CNN` `Transformers` `Audio` |
 | **[🎵 Spotify Analysis](https://github.com/Begluckt/Pop-Music-Classification)** | Minería de Datos | `CRISP-DM` `Statistics` |
 
