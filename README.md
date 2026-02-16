@@ -2,7 +2,7 @@
   <h1>Hola, soy Patricio Abarca 👋</h1>
   <h3>Ingeniería Civil en Computación | AI Developer & Fullstack</h3>
   
-  <p>🚀 6to Año en UTEM | 🤖 AI Intern en Claro VTR (hasta Abril) | 📝 Tesista</p>
+  <p>🚀 6to Año en UTEM | 🤖 AI Intern en Claro VTR  | 📝 Tesista</p>
 
   <a href="https://www.linkedin.com/in/patricioabarcahernandez/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
