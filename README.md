@@ -1,9 +1,8 @@
-
 <div align="center">
-  <h1>Hola, soy Patricio (Pato) Abarca 👋</h1>
-  <h3>Ingeniería Civil en Computación | AI Developer & Researcher</h3>
+  <h1>Hola, soy Patricio Abarca 👋</h1>
+  <h3>Ingeniería Civil en Computación | AI Developer & Fullstack</h3>
   
-  <p>🚀 Cursando 6to año en UTEM | 🤖 AI Intern en Claro VTR | 📝 Tesista</p>
+  <p>🚀 6to Año en UTEM | 🤖 AI Intern en Claro VTR (hasta Abril) | 📝 Tesista</p>
 
   <a href="https://www.linkedin.com/in/patricioabarcahernandez/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -17,35 +16,36 @@
 
 ### 👨‍💻 Sobre Mí 
 
-Soy estudiante de **6to año de Ingeniería Civil en Computación** en la Universidad Tecnológica Metropolitana. Actualmente me desempeño como **Pasante de Desarrollo IA y Automatización**, mientras desarrollo mi trabajo de título.
+Soy estudiante de **último año (6to)** de Ingeniería Civil en Computación en la UTEM. Actualmente divido mi tiempo entre mi práctica profesional en **Claro VTR** (enfocada en automatización e IA) y el desarrollo de mi **Trabajo de Título 1**.
 
-* 💼 **Actualidad:** Práctica profesional en el área de IA y Automatización (finaliza Abril 2026).
-* 🛠️ **En qué estoy:** Iniciando mi Trabajo de Título 1 enfocado en IA y escalando **EasyPark**.
-* 🔍 **Intereses:** Ciencia de Datos, Ethical Hacking, Networking y Computer Vision.
-* 🎨 **Pasiones:** Audio Hi-Fi, vinilos y modelismo.
+* 💼 **Práctica Profesional:** Desarrollador de IA y Automatización en Claro VTR (Término: 7 de Abril, 2026).
+* 🚗 **Proyecto Destacado:** Desarrollando **EasyPark**, una plataforma P2P para estacionamientos.
+* 🔍 **Intereses:** Inteligencia Artificial aplicada, Desarrollo Fullstack y Computer Vision.
+* 🎨 **Hobbies:** Audio Hi-Fi, vinilos y modelismo.
 
 ---
 
-### 🏗️ Proyectos en Desarrollo
+### 🏗️ Proyectos en el Radar
 
-* **🚗 EasyPark:** Plataforma P2P para estacionamientos utilizando Gemini Pro 3 y Antigravity.
-* **📡 Antenna Recognition PoC:** Prueba de concepto de Computer Vision para catalogación de infraestructura de red.
-* **🛡️ Networking & Security:** Formándome activamente en Ethical Hacking y administración de redes.
+* **🚗 EasyPark:** App móvil para arriendo de estacionamientos. 
+    * *Stack:* **FastAPI**, **Python**, **React Native**, **Expo**.
+* **📡 Antenna Recognition PoC:** Modelo de Computer Vision para catalogación de infraestructura técnica (Finalizado).
+* **📝 Tesis:** Investigación y desarrollo en Inteligencia Artificial (En progreso).
 
 ---
 
 ### 🛠️ Stack Tecnológico 
 
-#### 🧠 Data Science & AI 
+#### 🚀 Backend & Mobile (EasyPark Stack)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter" height="45" alt="ai-stack" />
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" height="45" alt="data-stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js" height="45" alt="backend-stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github" height="45" alt="devops-stack" />
 </div>
 
-#### 💻 Dev & Ops
+#### 🧠 Data Science & AI 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,figma" height="45" alt="web-stack" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,cpp" height="45" alt="tools-stack" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,jupyter" height="45" alt="ai-stack" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" height="45" alt="data-stack" />
 </div>
 
 ---
@@ -54,8 +54,8 @@ Soy estudiante de **6to año de Ingeniería Civil en Computación** en la Univer
 
 | Repo | Dominio | Tech Key |
 | :--- | :--- | :--- |
-| **[🏥 COVID-19 Ensemble](https://github.com/Begluckt/COVID19-Multimodal-ICU-Prediction)** | Medicina / DL | `Late Fusion` `CNN` `RNN` |
+| **[🏥 COVID-19 Ensemble](https://github.com/Begluckt/COVID19-Multimodal-ICU-Prediction)** | Medicina / DL | `CNN` `RNN` `Ensemble` |
 | **[🌾 RiceYield AI](https://github.com/Begluckt/RiceYield-AI)** | Agricultura / ML | `XGBoost` `APIs` |
-| **[🦠 Tri-Modal Diagnosis](https://github.com/Begluckt/TriModal-COVID-Diagnosis-System)** | Medicina / DL | `CNN` `Transformers` |
+| **[🎵 Spotify Analysis](https://github.com/Begluckt/Pop-Music-Classification)** | Data Mining | `CRISP-DM` `Stats` |
 
 ---
