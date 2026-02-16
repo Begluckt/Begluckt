@@ -1,7 +1,10 @@
+
 <div align="center">
-  <h1>Hola, soy Patricio Abarca 👋</h1>
-  <h3>Ingeniería Civil en Computación | AI Researcher in Training</h3>
+  <h1>Hola, soy Patricio (Pato) Abarca 👋</h1>
+  <h3>Ingeniería Civil en Computación | AI Developer & Researcher</h3>
   
+  <p>🚀 Cursando 6to año en UTEM | 🤖 AI Intern en Claro VTR | 📝 Tesista</p>
+
   <a href="https://www.linkedin.com/in/patricioabarcahernandez/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -14,39 +17,45 @@
 
 ### 👨‍💻 Sobre Mí 
 
-Soy estudiante de **5to año de Ingeniería Civil en Computación** en la Univerisdad Tecnológica Metropólitana, con gran interés en la resolución de problemas, y sobretodo por la **Ciencia de Datos** y la **Inteligencia Artificial**. Me apasiona **explorar los resultados de la IA en terrenos reales**. Me motiva cerrar la brecha entre los modelos teóricos y su impacto tangible en otras áreas.
+Soy estudiante de **6to año de Ingeniería Civil en Computación** en la Universidad Tecnológica Metropolitana. Actualmente me desempeño como **Pasante de Desarrollo IA y Automatización**, mientras desarrollo mi trabajo de título.
 
+* 💼 **Actualidad:** Práctica profesional en el área de IA y Automatización (finaliza Abril 2026).
+* 🛠️ **En qué estoy:** Iniciando mi Trabajo de Título 1 enfocado en IA y escalando **EasyPark**.
+* 🔍 **Intereses:** Ciencia de Datos, Ethical Hacking, Networking y Computer Vision.
+* 🎨 **Pasiones:** Audio Hi-Fi, vinilos y modelismo.
 
+---
+
+### 🏗️ Proyectos en Desarrollo
+
+* **🚗 EasyPark:** Plataforma P2P para estacionamientos utilizando Gemini Pro 3 y Antigravity.
+* **📡 Antenna Recognition PoC:** Prueba de concepto de Computer Vision para catalogación de infraestructura de red.
+* **🛡️ Networking & Security:** Formándome activamente en Ethical Hacking y administración de redes.
 
 ---
 
 ### 🛠️ Stack Tecnológico 
-Las princiaples herramientas que manejo son: 
+
 #### 🧠 Data Science & AI 
-> *Nivel Básico-Intermedio: Capaz de implementar pipelines, limpiar datos y entrenar modelos.*
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter" height="45" alt="ai-stack" />
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" height="45" alt="data-stack" />
 </div>
 
-#### 🎨 Frontend & UX/UI 
-> *Del prototipo en Figma al código en React.*
+#### 💻 Dev & Ops
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,react,js,html,css" height="45" alt="web-stack" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" alt="tools-stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,figma" height="45" alt="web-stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,cpp" height="45" alt="tools-stack" />
 </div>
 
----
 ---
 
 ### 🔬 Portafolio de Investigación
 
 | Repo | Dominio | Tech Key |
 | :--- | :--- | :--- |
-| **[🏥 COVID-19 Ensemble](https://github.com/Begluckt/COVID19-Multimodal-ICU-Prediction)** | Medicina / Deep Learning | `Late Fusion` `CNN` `RNN` |
-| **[🌾 RiceYield AI](https://github.com/Begluckt/RiceYield-AI)** | Agricultura / Machine Learning | `XGBoost` `APIs` `Tabular` |
-| **[🦠 Tri-Modal Diagnosis (WIP)](https://github.com/Begluckt/TriModal-COVID-Diagnosis-System)** | Medicina / Deep Learning | `CNN` `Transformers` `Audio` |
-| **[🎵 Spotify Analysis](https://github.com/Begluckt/Pop-Music-Classification)** | Minería de Datos | `CRISP-DM` `Statistics` |
+| **[🏥 COVID-19 Ensemble](https://github.com/Begluckt/COVID19-Multimodal-ICU-Prediction)** | Medicina / DL | `Late Fusion` `CNN` `RNN` |
+| **[🌾 RiceYield AI](https://github.com/Begluckt/RiceYield-AI)** | Agricultura / ML | `XGBoost` `APIs` |
+| **[🦠 Tri-Modal Diagnosis](https://github.com/Begluckt/TriModal-COVID-Diagnosis-System)** | Medicina / DL | `CNN` `Transformers` |
 
 ---
-
