@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Hola, soy Patricio Abarca 👋</h1>
-  <h3>Ingeniería Civil en Computación | AI Developer & Fullstack</h3>
+  <h3>Ingeniería Civil en Computación | AI Researcher in Training</h3>
   
-  <p>🚀 6to Año en UTEM | 🤖 AI Intern en Claro VTR  | 📝 Tesista</p>
-
   <a href="https://www.linkedin.com/in/patricioabarcahernandez/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -16,46 +14,39 @@
 
 ### 👨‍💻 Sobre Mí 
 
-Soy estudiante de **último año (6to)** de Ingeniería Civil en Computación en la UTEM. Actualmente divido mi tiempo entre mi práctica profesional en **Claro VTR** (enfocada en automatización e IA) y el desarrollo de mi **Trabajo de Título 1**.
+Soy estudiante de **5to año de Ingeniería Civil en Computación** en la Univerisdad Tecnológica Metropólitana, con gran interés en la resolución de problemas, y sobretodo por la **Ciencia de Datos** y la **Inteligencia Artificial**. Me apasiona **explorar los resultados de la IA en terrenos reales**. Me motiva cerrar la brecha entre los modelos teóricos y su impacto tangible en otras áreas.
 
-* 💼 **Práctica Profesional:** Desarrollador de IA y Automatización en Claro VTR (Término: 7 de Abril, 2026).
-* 🚗 **Proyecto Destacado:** Desarrollando **EasyPark**, una plataforma P2P para estacionamientos.
-* 🔍 **Intereses:** Inteligencia Artificial aplicada, Desarrollo Fullstack y Computer Vision.
-* 🎨 **Hobbies:** Audio Hi-Fi, vinilos y modelismo.
 
----
-
-### 🏗️ Proyectos en el Radar
-
-* **🚗 EasyPark:** App móvil para arriendo de estacionamientos. 
-    * *Stack:* **FastAPI**, **Python**, **React Native**, **Expo**.
-* **📡 Antenna Recognition PoC:** Modelo de Computer Vision para catalogación de infraestructura técnica (Finalizado).
-* **📝 Tesis:** Investigación y desarrollo en Inteligencia Artificial (En progreso).
 
 ---
 
 ### 🛠️ Stack Tecnológico 
-
-#### 🚀 Backend & Mobile (EasyPark Stack)
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js" height="45" alt="backend-stack" />
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github" height="45" alt="devops-stack" />
-</div>
-
+Las princiaples herramientas que manejo son: 
 #### 🧠 Data Science & AI 
+> *Nivel Básico-Intermedio: Capaz de implementar pipelines, limpiar datos y entrenar modelos.*
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,jupyter" height="45" alt="ai-stack" />
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" height="45" alt="data-stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter" height="45" alt="ai-stack" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" height="45" alt="data-stack" />
 </div>
 
+#### 🎨 Frontend & UX/UI 
+> *Del prototipo en Figma al código en React.*
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,react,js,html,css" height="45" alt="web-stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" alt="tools-stack" />
+</div>
+
+---
 ---
 
 ### 🔬 Portafolio de Investigación
 
 | Repo | Dominio | Tech Key |
 | :--- | :--- | :--- |
-| **[🏥 COVID-19 Ensemble](https://github.com/Begluckt/COVID19-Multimodal-ICU-Prediction)** | Medicina / DL | `CNN` `RNN` `Ensemble` |
-| **[🌾 RiceYield AI](https://github.com/Begluckt/RiceYield-AI)** | Agricultura / ML | `XGBoost` `APIs` |
-| **[🎵 Spotify Analysis](https://github.com/Begluckt/Pop-Music-Classification)** | Data Mining | `CRISP-DM` `Stats` |
+| **[🏥 COVID-19 Ensemble](https://github.com/Begluckt/COVID19-Multimodal-ICU-Prediction)** | Medicina / Deep Learning | `Late Fusion` `CNN` `RNN` |
+| **[🌾 RiceYield AI](https://github.com/Begluckt/RiceYield-AI)** | Agricultura / Machine Learning | `XGBoost` `APIs` `Tabular` |
+| **[🦠 Tri-Modal Diagnosis (WIP)](https://github.com/Begluckt/TriModal-COVID-Diagnosis-System)** | Medicina / Deep Learning | `CNN` `Transformers` `Audio` |
+| **[🎵 Spotify Analysis](https://github.com/Begluckt/Pop-Music-Classification)** | Minería de Datos | `CRISP-DM` `Statistics` |
 
 ---
+
