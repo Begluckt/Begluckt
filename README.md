@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hola, soy Patricio Abarca 👋</h1>
-  <h3>Ingeniería Civil en Computación | AI Researcher in Training</h3>
+  <h3>Ingeniería Civil en Computación | AI Researcher & Developer</h3>
   
   <a href="https://www.linkedin.com/in/patricioabarcahernandez/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:pabarcah@utem.cl">
+  <a href="mailto:patricio.abarcah@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </div>
@@ -14,32 +14,38 @@
 
 ### 👨‍💻 Sobre Mí 
 
-Soy estudiante de **5to año de Ingeniería Civil en Computación** en la Univerisdad Tecnológica Metropólitana, con gran interés en la resolución de problemas, y sobretodo por la **Ciencia de Datos** y la **Inteligencia Artificial**. Me apasiona **explorar los resultados de la IA en terrenos reales**. Me motiva cerrar la brecha entre los modelos teóricos y su impacto tangible en otras áreas.
+Soy estudiante de **último año de Ingeniería Civil en Computación** en la Universidad Tecnológica Metropolitana, con gran interés en la resolución de problemas y, sobre todo, en la **Ciencia de Datos** y la **Inteligencia Artificial**. 
 
-
+Me apasiona **explorar los resultados de la IA en entornos reales**. Recientemente finalicé mi práctica profesional en **Claro Chile**, donde trabajé implementando soluciones de IA Generativa con arquitecturas RAG y modelos *on-premise*, además de construir las plataformas web para disponibilizarlas. Mi mayor motivación es cerrar la brecha entre los modelos teóricos y su impacto tangible mediante el desarrollo *End-to-End*.
 
 ---
 
 ### 🛠️ Stack Tecnológico 
-Las princiaples herramientas que manejo son: 
-#### 🧠 Data Science & AI 
-> *Nivel Básico-Intermedio: Capaz de implementar pipelines, limpiar datos y entrenar modelos.*
+Las principales herramientas que manejo son: 
+
+#### 🧠 Data Science, ML & GenAI 
+> *Implementación de pipelines, entrenamiento de modelos de Deep Learning, RAG y despliegue de LLMs locales.*
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter" height="45" alt="ai-stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" height="45" alt="ai-stack" />
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" height="45" alt="data-stack" />
 </div>
 
-#### 🎨 Frontend & UX/UI 
-> *Del prototipo en Figma al código en React.*
+#### ⚙️ Backend & Bases de Datos
+> *Creación de APIs de alto rendimiento y gestión de persistencia de datos.*
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,react,js,html,css" height="45" alt="web-stack" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" height="45" alt="backend-stack" />
+</div>
+
+#### 🎨 Frontend & UX/UI 
+> *Del prototipo en Figma al código interactivo para el usuario final.*
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,react,vite,js,html,css" height="45" alt="web-stack" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" alt="tools-stack" />
 </div>
 
 ---
----
 
-### 🔬 Portafolio de Investigación
+### 🔬 Portafolio de Investigación y Desarrollo
 
 | Repo | Dominio | Tech Key |
 | :--- | :--- | :--- |
@@ -49,4 +55,3 @@ Las princiaples herramientas que manejo son:
 | **[🎵 Spotify Analysis](https://github.com/Begluckt/Pop-Music-Classification)** | Minería de Datos | `CRISP-DM` `Statistics` |
 
 ---
-
