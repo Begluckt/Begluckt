@@ -14,34 +14,48 @@
 
 ### 👨‍💻 Sobre Mí 
 
-Soy estudiante de **último año de Ingeniería Civil en Computación** en la Universidad Tecnológica Metropolitana, con gran interés en la resolución de problemas y, sobre todo, en la **Ciencia de Datos** y la **Inteligencia Artificial**. 
+Soy estudiante de **último año de Ingeniería Civil en Computación** en la Universidad Tecnológica Metropolitana. Mi enfoque principal es la **Inteligencia Artificial y la Ciencia de Datos**, con un profundo interés en la intersección entre tecnología, procesamiento de señales (imagen y audio) y desarrollo de software.
 
-Me apasiona **explorar los resultados de la IA en entornos reales**. Recientemente finalicé mi práctica profesional en **Claro Chile**, donde trabajé implementando soluciones de IA Generativa con arquitecturas RAG y modelos *on-premise*, además de construir las plataformas web para disponibilizarlas. Mi mayor motivación es cerrar la brecha entre los modelos teóricos y su impacto tangible mediante el desarrollo *End-to-End*.
+Me apasiona **construir soluciones End-to-End**: desde la investigación teórica y la arquitectura de datos, hasta la creación de plataformas web completas para desplegar y consumir estos modelos. Recientemente finalicé mi práctica en **Claro Chile**, implementando soluciones de IA Generativa y Computer Vision en infraestructuras seguras (*on-premise*). Mi motivación es cerrar la brecha entre los modelos teóricos y su impacto tangible en el negocio.
 
 ---
 
-### 🛠️ Stack Tecnológico 
-Las principales herramientas que manejo son: 
+### 🛠️ Stack Tecnológico y Conocimientos
 
-#### 🧠 Data Science, ML & GenAI 
-> *Implementación de pipelines, entrenamiento de modelos de Deep Learning, RAG y despliegue de LLMs locales.*
+#### 🧠 Inteligencia Artificial & Data Science
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" height="45" alt="ai-stack" />
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" height="45" alt="data-stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy" height="40" alt="ai-stack" />
 </div>
 
-#### ⚙️ Backend & Bases de Datos
-> *Creación de APIs de alto rendimiento y gestión de persistencia de datos.*
+* **Deep Learning & ML:** Redes Convolucionales (CNN), Redes Recurrentes (RNN), Transformers, XGBoost, arquitecturas de *Late Fusion*.
+* **GenAI & LLMs:** RAG (Retrieval-Augmented Generation), Prompt Engineering, despliegue de modelos *on-premise* / locales (Ollama, LMStudio), consumo de APIs.
+* **Dominios de Aplicación:** Computer Vision, Procesamiento de Audio y Señales Digitales, Análisis Predictivo Multimodal.
+* **Metodología y Datos:** CRISP-DM, limpieza, estructuración y análisis estadístico de datasets complejos.
+
+#### ⚙️ Backend, APIs & Bases de Datos
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" height="45" alt="backend-stack" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" height="40" alt="backend-stack" />
 </div>
 
-#### 🎨 Frontend & UX/UI 
-> *Del prototipo en Figma al código interactivo para el usuario final.*
+* **Arquitectura Backend:** Diseño y creación de APIs RESTful de alto rendimiento utilizando FastAPI y Uvicorn para la inferencia de modelos en tiempo real.
+* **Persistencia de Datos:** Modelado y administración de bases de datos relacionales (PostgreSQL) y NoSQL (MongoDB).
+
+#### 🎨 Frontend & UX/UI
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,react,vite,js,html,css" height="45" alt="web-stack" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" alt="tools-stack" />
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,figma" height="40" alt="frontend-stack" />
 </div>
+
+* **Desarrollo Web:** Construcción de interfaces interactivas y centradas en el usuario final con el ecosistema React + Vite.
+* **Prototipado:** Diseño de experiencia de usuario (UX/UI) y *wireframing* en Figma.
+
+#### 🧰 Herramientas & Flujo de Trabajo
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" height="40" alt="tools-stack" />
+</div>
+
+* **Entornos y SO:** Manejo fluido de entornos Linux/Bash, Jupyter Notebooks y VSCode.
+* **Documentación Técnica:** Uso avanzado de LaTeX para la elaboración de reportes de ingeniería y *papers* académicos, además de Markdown.
+* **Versionamiento:** Git y GitHub para control de código fuente y trabajo colaborativo.
 
 ---
 
@@ -49,10 +63,9 @@ Las principales herramientas que manejo son:
 
 | Repo | Dominio | Tech Key |
 | :--- | :--- | :--- |
-| **[🏥 COVID-19 Ensemble](https://github.com/Begluckt/COVID19-Multimodal-ICU-Prediction)** | Medicina / Deep Learning | `Late Fusion` `CNN` `RNN` |
-| **[🌾 RiceYield AI](https://github.com/Begluckt/RiceYield-AI)** | Agricultura / Machine Learning | `XGBoost` `APIs` `Tabular` |
-| **[🦠 Tri-Modal Diagnosis (WIP)](https://github.com/Begluckt/TriModal-COVID-Diagnosis-System)** | Medicina / Deep Learning | `CNN` `Transformers` `Audio` |
-| **[🎵 Spotify Analysis](https://github.com/Begluckt/Pop-Music-Classification)** | Minería de Datos | `CRISP-DM` `Statistics` |
+| **[🏥 COVID-19 Ensemble](https://github.com/Begluckt/COVID19-Multimodal-ICU-Prediction)** | Medicina / Deep Learning | `Late Fusion` `CNN` `RNN` `PyTorch` |
+| **[🌾 RiceYield AI](https://github.com/Begluckt/RiceYield-AI)** | Agricultura / Machine Learning | `XGBoost` `APIs` `Pandas` |
+| **[🦠 Tri-Modal Diagnosis (WIP)](https://github.com/Begluckt/TriModal-COVID-Diagnosis-System)** | Medicina / Deep Learning | `Transformers` `Audio Processing` `CNN` |
+| **[🎵 Spotify Analysis](https://github.com/Begluckt/Pop-Music-Classification)** | Minería de Datos | `CRISP-DM` `Statistics` `Scikit-learn` |
 
 ---
-
